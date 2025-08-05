@@ -1,27 +1,20 @@
-# Hello, I'm Bruno
-<a href="https://www.linkedin.com/in/bruno-moulheres/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Madhur
+<a href="https://www.linkedin.com/in/madhurh01"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a driven cybersecurity student whose passion for technology is deeply rooted in a personal drive to protect others from cyber threats. Motivated by firsthand experience, I am dedicated to tackling complex challenges to safeguard systems and individuals in an ever-evolving digital landscape. 
 
 ## Objective
 After experiencing a significant financial cybercrime firsthand, I was driven to protect others from similar threats. This pivotal event ignited my passion for cybersecurity, and now, with a solid foundation and hands-on skills, I am committed to defending systems and individuals against emerging threats as a Security Operations Center (SOC) Analyst.
 
-## Azure-based SOC Simulation (Enterprise Simulation)
-
-| Simulation Environment                        | Home Lab                         |
-|-----------------------------------------------|----------------------------------|
-| Microsoft Azure                               |(https://github.com/bnmou/Azure-Enterprise-Simulation/blob/main/readme.md)|
 
 ## Skills
 
 | Skill                                         | Associated Project               |
 |-----------------------------------------------|----------------------------------|
-| SOAR EDR Integration                          |(https://github.com/bnmou/SOAR_EDR/tree/main)|
-| Malware Analysis                              |(https://github.com/bnmou/MalwareLab)|
-| Active Directory, Splunk, Kali Linux, ATR     |(https://github.com/bnmou/ActiveDirectoryProject)| 
-| Honeypot Deployment                           |(https://github.com/bnmou/HoneyPotProject/tree/main)|
-| File Integrity Checker (Python)               |(https://github.com/bnmou/File-Integrity-Checker)|
-| Microsoft Azure & Sentinel                    |(https://github.com/bnmou/Home-SOC-in-Azure)|
+| SOAR EDR Integration                          |(https://medium.com/@madhurhase0/comprehensive-soc-automation-project-integrating-wazuh-soar-and-thehive-e9e92f273cd6)|
+| Microsoft Azure & Sentinel                    |(https://medium.com/@madhurhase0/azure-honeypot-tracking-cyber-attacks-in-real-time-with-microsoft-sentinel-848d5ee5e238)|
+| Linux Scripting & Problem Solving             |(https://medium.com/@madhurhase0/overthewire-bandit-walkthrough-a-beginners-path-to-master-linux-and-security-ba1211e60a71)|
+| SOC Lab with ELK Stack & Attack Simulation    |(https://medium.com/@madhurhase0/hands-on-experience-for-entry-level-aspiring-socs-analyst-in-30-days-3ae4bba895a6)|
 
 ## Tools
 
@@ -82,21 +75,9 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
 
 ## Certifications
 <div>
-    <a href="https://www.credly.com/badges/9484fb98-9777-4951-9250-622ca7daf543"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-    <a href="https://www.credly.com/badges/7c2ff860-904a-459b-86ea-cc6a1d51ebfe"><img src="https://img.shields.io/badge/-CySA%2B-FF9900?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-    <a href="https://www.credly.com/badges/3c3ade33-32eb-41ef-b31e-26e710c5e5f3"><img src="https://img.shields.io/badge/-CSAP-00CED1?&style=for-the-badge&logo=Cybersecurity&logoColor=white" /></a>
-    <a href="https://www.credly.com/badges/01357c5e-4537-4613-b9f7-54f6832f464d"><img src="https://img.shields.io/badge/-Blue%20Team%20Level%201-1E90FF?&style=for-the-badge&logo=Cybersecurity&logoColor=white" /></a>
+    <a href="https://www.credly.com/earner/earned/badge/394f7065-2a2c-4a91-9093-c770838e3f64"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
     <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /></a>
-    <a href="https://www.credly.com/badges/346dbc50-f5b1-4424-8400-f33ad4d2eb6c"><img src="https://img.shields.io/badge/-SC900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
-</div>
+    <a href="https://www.credly.com/earner/earned/share/002e9428-b53b-4df7-9d00-058ec292009b"><img src="https://img.shields.io/badge/ISO%2027001%3A2022-Lead%20Auditor-6A0DAD?&style=for-the-badge&logo=mastermind/&logoColor=white"/></a>
 
-
-## Projects
-- [SOAR EDR Integration Lab](https://github.com/bnmou/SOAR_EDR/tree/main)
-- [Malware Analysis Lab](https://github.com/bnmou/MalwareLab)
-- [Active Directory Lab](https://github.com/bnmou/ActiveDirectoryProject)
-- [Honeypot Lab](https://github.com/bnmou/HoneyPotProject/tree/main)
-- [File Integrity Checker](https://github.com/bnmou/File-Integrity-Checker)
-- [Home SOC in Azure](https://github.com/bnmou/Home-SOC-in-Azure)
 
 ---
