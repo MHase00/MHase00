@@ -76,8 +76,10 @@ After experiencing a significant financial cybercrime firsthand, I was driven to
 ## Certifications
 <div>
     <a href="https://www.credly.com/badges/394f7065-2a2c-4a91-9093-c770838e3f64/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-    <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /></a>
-    <a href="https://www.credly.com/earner/earned/share/002e9428-b53b-4df7-9d00-058ec292009b"><img src="https://img.shields.io/badge/ISO%2027001%3A2022-Lead%20Auditor-6A0DAD?&style=for-the-badge&logo=mastermind/&logoColor=white"/></a>
+    <a href="https://www.credly.com/badges/6401f2de-6cd1-4ba5-8a31-2e5de99957b8/public_url"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+    <a href="https://www.credly.com/badges/002e9428-b53b-4df7-9d00-058ec292009b/public_url"><img src="https://img.shields.io/badge/ISO%2027001%3A2022-Lead%20Auditor-6A0DAD?&style=for-the-badge&logo=mastermind/&logoColor=white"/></a>
+    <a href= "https://www.credly.com/badges/0d7c6ec7-861a-4aeb-92bb-935b3586d46d/public_url"><img src="(https://img.shields.io/badge/ISC2%20CC-Certified%20in%20Cybersecurity-6A0DAD?style=for-the-badge&logo=shield&logoColor=white)"/></a>
+
 
 
 ---
