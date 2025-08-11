@@ -1,87 +1,90 @@
-# Hello, I'm Madhur
-<a href="https://www.linkedin.com/in/madhurh01"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 👋 Hey there, I'm Madhur
 
-I am a driven cybersecurity student whose passion for technology is deeply rooted in a personal drive to protect others from cyber threats. Motivated by firsthand experience, I am dedicated to tackling complex challenges to safeguard systems and individuals in an ever-evolving digital landscape. 
-
-## Objective
-After experiencing a significant financial cybercrime firsthand, I was driven to protect others from similar threats. This pivotal event ignited my passion for cybersecurity, and now, with a solid foundation and hands-on skills, I am committed to defending systems and individuals against emerging threats as a Security Operations Center (SOC) Analyst.
-
-
-## Skills
-
-| Skill                                         | Associated Project               |
-|-----------------------------------------------|----------------------------------|
-| SOAR EDR Integration                          |(https://medium.com/@madhurhase0/comprehensive-soc-automation-project-integrating-wazuh-soar-and-thehive-e9e92f273cd6)|
-| Microsoft Azure & Sentinel                    |(https://medium.com/@madhurhase0/azure-honeypot-tracking-cyber-attacks-in-real-time-with-microsoft-sentinel-848d5ee5e238)|
-| Linux Scripting & Problem Solving             |(https://medium.com/@madhurhase0/overthewire-bandit-walkthrough-a-beginners-path-to-master-linux-and-security-ba1211e60a71)|
-| SOC Lab with ELK Stack & Attack Simulation    |(https://medium.com/@madhurhase0/hands-on-experience-for-entry-level-aspiring-socs-analyst-in-30-days-3ae4bba895a6)|
-
-## Tools
-
-### SOAR & Automation
-<div>
-    <a href="https://github.com/bnmou/SOAR_EDR/tree/main"><img src="https://img.shields.io/badge/-Tines-0072b1?&style=for-the-badge&logo=Tines&logoColor=white" /></a>
-    <a href="https://github.com/bnmou/SOAR_EDR/tree/main"><img src="https://img.shields.io/badge/-LimaCharlie-4D4D4D?&style=for-the-badge&logo=LimaCharlie&logoColor=white" /></a>
-</div>
-
-### Threat Detection & Endpoint Security
-<div>
-    <a href="https://www.credly.com/badges/346dbc50-f5b1-4424-8400-f33ad4d2eb6c"><img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
-    <a href="https://github.com/bnmou/HoneyPotProject/tree/main"><img src="https://img.shields.io/badge/-T--Pot-4D4D4D?&style=for-the-badge&logo=OpenSourceInitiative&logoColor=white" /></a>
-</div>
-
-### Cloud, SIEM, & Active Directory
-<div>
-    <a href="https://github.com/bnmou/Home-SOC-in-Azure"><img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" /></a>
-    <a href="https://github.com/bnmou/Home-SOC-in-Azure"><img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
-    <a href="https://github.com/bnmou/ActiveDirectoryProject"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
-    <a href="https://github.com/bnmou/ActiveDirectoryProject"><img src="https://img.shields.io/badge/-Active%20Directory-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
-    <a href="https://github.com/bnmou/HoneyPotProject/tree/main"><img src="https://img.shields.io/badge/-Vultr-007BFC?&style=for-the-badge&logo=Vultr&logoColor=white" /></a>
-</div>
-
-### Offensive Security & Malware Analysis 
-<div> 
-    <a href="https://github.com/bnmou/ActiveDirectoryProject"><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white" /></a>
-    <a href="https://github.com/bnmou/ActiveDirectoryProject"><img src="https://img.shields.io/badge/-Atomic%20Red%20Team-DD4A68?style=for-the-badge&logo=Hack-The-Box&logoColor=white" /></a>
-    <a href="https://github.com/bnmou/MalwareLab"><img src="https://img.shields.io/badge/-FlareVM-8B0000?&style=for-the-badge&logo=Windows&logoColor=white" /></a>
-</div>
-
-### Operating Systems & Scripting
-<div>
-    <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" /></a>
-    <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" /></a>
-    <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Bash_Scripting-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" /></a>
-    <a href="https://github.com/bnmou/HoneyPotProject/tree/main"><img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" /></a>
-    <a href="https://github.com/bnmou/File-Integrity-Checker"><img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-</div>
-
-### Network Analysis
-<div>
-    <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
-</div>
-
-### Virtualization
-<div>
-    <a href="https://github.com/bnmou/SOAR_EDR/tree/main"><img src="https://img.shields.io/badge/-Oracle_VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" /></a>
-</div>
-
-### Communication & Collaboration
-<div>
-    <a href="https://github.com/bnmou/SOAR_EDR/tree/main"><img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white" /></a>
-</div>
-
-
-
-
-## Certifications
-<div>
-    <a href="https://www.credly.com/badges/394f7065-2a2c-4a91-9093-c770838e3f64/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-    <a href="https://www.credly.com/badges/6401f2de-6cd1-4ba5-8a31-2e5de99957b8/public_url"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /></a>
-    <a href="https://www.credly.com/badges/0d7c6ec7-861a-4aeb-92bb-935b3586d46d/public_url"><img src="https://img.shields.io/badge/CC-FFFFFF?style=for-the-badge&logo=ISC2&logoColor=black"/> </a>
-    <a href="https://www.credly.com/badges/002e9428-b53b-4df7-9d00-058ec292009b/public_url"><img src="https://img.shields.io/badge/ISO%2027001%3A2022-Lead%20Auditor-6A0DAD?&style=for-the-badge&logo=mastermind/&logoColor=white"/> </a>
-    
-
-
-
+<a href="https://www.linkedin.com/in/madhurh01"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="mailto:madhurhase0@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<a href="https://madhurhase.github.io/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 
 ---
+
+## 🛡️ About Me
+I am a **detail-oriented Cybersecurity professional** with hands-on experience in **SOC operations, threat detection, incident response, and cloud security**.  
+Skilled in tools like **Splunk, ELK Stack, Wazuh, Microsoft Sentinel, and TheHive**, I specialize in designing secure systems, automating workflows, and enhancing threat visibility.  
+With a strong background in **security monitoring, compliance (NIST, ISO 27001, SOC2)**, scripting (**Python, PowerShell, Bash**), and networking fundamentals, I have successfully deployed **real-time honeypots**, streamlined incident response, and authored technical documentation that boosts team efficiency and onboarding.
+
+---
+
+## 🎯 Career Objective
+To leverage my expertise in SOC environments, cloud security, and automation to protect organizations from advanced threats, while continuing to expand my skillset in offensive and defensive security.
+
+---
+
+## 📌 For Recruiters
+**Quick Snapshot of My Profile:**
+- **Core Skills:** SOC operations, SIEM (Azure Sentinel, Splunk), SOAR automation, threat analysis, malware lab setup.
+- **Certifications:** CompTIA Security+, Google Cybersecurity, ISC² CC, ISO 27001 Lead Auditor.
+- **Experience:** Built automated SOC workflows, integrated honeypots in Azure, created ISO-aligned detection rules, led technical documentation.
+- **Strengths:** Cross-platform expertise (Linux, Windows Server), cloud security, compliance alignment, KQL & scripting.
+
+---
+
+## 🏆 CTF & Challenges
+| Platform      | Profile |
+|---------------|---------|
+| TryHackMe     | [![TryHackMe Badge](https://img.shields.io/badge/-Profile-212121?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/madhurhase) |
+| HackTheBox    | [![HackTheBox Badge](https://img.shields.io/badge/-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/123456) |
+| OverTheWire   | [![OverTheWire Badge](https://img.shields.io/badge/-Writeups-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://medium.com/@madhurhase0) |
+
+---
+
+## 🛠️ Skills & Projects
+| Skill                                         | Project Link |
+|-----------------------------------------------|--------------|
+| SOC Automation (Wazuh + SOAR)                 | [Project](https://medium.com/@madhurhase0/comprehensive-soc-automation-project-integrating-wazuh-soar-and-thehive-e9e92f273cd6) |
+| Microsoft Azure & Sentinel Honeypot           | [Project](https://medium.com/@madhurhase0/azure-honeypot-tracking-cyber-attacks-in-real-time-with-microsoft-sentinel-848d5ee5e238) |
+| Linux Scripting & Problem Solving             | [Project](https://medium.com/@madhurhase0/overthewire-bandit-walkthrough-a-beginners-path-to-master-linux-and-security-ba1211e60a71) |
+| ELK Stack SOC Lab with Attack Simulation      | [Project](https://medium.com/@madhurhase0/hands-on-experience-for-entry-level-aspiring-socs-analyst-in-30-days-3ae4bba895a6) |
+
+---
+
+## 🔧 Tools & Technologies
+<details>
+<summary>Click to expand</summary>
+
+### SIEM & SOAR
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white)
+![Wazuh](https://img.shields.io/badge/-Wazuh-0047AB?style=for-the-badge&logo=Security&logoColor=white)
+![TheHive](https://img.shields.io/badge/-TheHive-FFD700?style=for-the-badge)
+
+### Cloud & Networking
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white)
+
+### Operating Systems & Scripting
+![Linux](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=Windows&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash_Scripting-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white)
+
+</details>
+
+---
+
+## 🎓 Certifications
+[![Security+](https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/394f7065-2a2c-4a91-9093-c770838e3f64/public_url)
+[![Google Cybersecurity](https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white)](https://www.credly.com/badges/6401f2de-6cd1-4ba5-8a31-2e5de99957b8/public_url)
+[![CC](https://img.shields.io/badge/CC-FFFFFF?style=for-the-badge&logo=ISC2&logoColor=black)](https://www.credly.com/badges/0d7c6ec7-861a-4aeb-92bb-935b3586d46d/public_url)
+[![ISO 27001 Lead Auditor](https://img.shields.io/badge/ISO%2027001%3A2022-Lead%20Auditor-6A0DAD?&style=for-the-badge)](https://www.credly.com/badges/002e9428-b53b-4df7-9d00-058ec292009b/public_url)
+
+---
+
+## 📫 Let’s Connect
+- 📧 Email: madhurhase0@gmail.com  
+- 🌐 Portfolio: [madhurhase.github.io](https://madhurhase.github.io)  
+- 💼 LinkedIn: [linkedin.com/in/madhurh01](https://www.linkedin.com/in/madhurh01)  
+
+---
+
+⭐ *If my work caught your eye, don’t hesitate to connect or star my projects!*
