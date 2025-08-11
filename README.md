@@ -2,7 +2,6 @@
 
 <a href="https://www.linkedin.com/in/madhurh01"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="mailto:madhurhase0@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-<a href="https://madhurhase.github.io/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 
 ---
 
@@ -30,9 +29,8 @@ To leverage my expertise in SOC environments, cloud security, and automation to 
 ## 🏆 CTF & Challenges
 | Platform      | Profile |
 |---------------|---------|
-| TryHackMe     | [![TryHackMe Badge](https://img.shields.io/badge/-Profile-212121?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/madhurhase) |
-| HackTheBox    | [![HackTheBox Badge](https://img.shields.io/badge/-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/123456) |
-| OverTheWire   | [![OverTheWire Badge](https://img.shields.io/badge/-Writeups-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://medium.com/@madhurhase0) |
+| TryHackMe     | <img src="https://tryhackme-badges.s3.amazonaws.com/MHase.png" alt="Your Image Badge" />|
+| OverTheWire   | [![OverTheWire Badge](https://img.shields.io/badge/-Writeups-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://medium.com/@madhurhase0/overthewire-bandit-walkthrough-a-beginners-path-to-master-linux-and-security-ba1211e60a71) |
 
 ---
 
@@ -49,6 +47,10 @@ To leverage my expertise in SOC environments, cloud security, and automation to 
 ## 🔧 Tools & Technologies
 <details>
 <summary>Click to expand</summary>
+
+### SOAR & Automation
+![Tines](https://img.shields.io/badge/-Tines-0072b1?&style=for-the-badge&logo=Tines&logoColor=white)
+![LimaCharlie](https://img.shields.io/badge/-LimaCharlie-4D4D4D?&style=for-the-badge&logo=LimaCharlie&logoColor=white)
 
 ### SIEM & SOAR
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
@@ -82,7 +84,7 @@ To leverage my expertise in SOC environments, cloud security, and automation to 
 
 ## 📫 Let’s Connect
 - 📧 Email: madhurhase0@gmail.com  
-- 🌐 Portfolio: [madhurhase.github.io](https://madhurhase.github.io)  
+- 🌐 Medium: [MadhurH](https://medium.com/@madhurhase0)  
 - 💼 LinkedIn: [linkedin.com/in/madhurh01](https://www.linkedin.com/in/madhurh01)  
 
 ---
