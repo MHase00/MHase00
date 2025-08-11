@@ -29,7 +29,7 @@ To leverage my expertise in SOC environments, cloud security, and automation to 
 ## 🏆 CTF & Challenges
 | Platform      | Profile |
 |---------------|---------|
-| TryHackMe     | <img src="https://tryhackme-badges.s3.amazonaws.com/MHase.png" alt="Your Image Badge" />|
+| TryHackMe     | [<img src="https://tryhackme-badges.s3.amazonaws.com/MHase.png" alt="TryHackMe Badge" />](https://tryhackme.com/p/MHase)
 | OverTheWire   | [![OverTheWire Badge](https://img.shields.io/badge/-Writeups-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://medium.com/@madhurhase0/overthewire-bandit-walkthrough-a-beginners-path-to-master-linux-and-security-ba1211e60a71) |
 
 ---
