@@ -41,6 +41,7 @@ To leverage my expertise in SOC environments, cloud security, and automation to 
 | Microsoft Azure & Sentinel Honeypot           | [Project](https://medium.com/@madhurhase0/azure-honeypot-tracking-cyber-attacks-in-real-time-with-microsoft-sentinel-848d5ee5e238) |
 | Linux Scripting & Problem Solving             | [Project](https://medium.com/@madhurhase0/overthewire-bandit-walkthrough-a-beginners-path-to-master-linux-and-security-ba1211e60a71) |
 | ELK Stack SOC Lab with Attack Simulation      | [Project](https://medium.com/@madhurhase0/hands-on-experience-for-entry-level-aspiring-socs-analyst-in-30-days-3ae4bba895a6) |
+| SOAR-EDR-Integration Using Lima-Charlie, Slack & Tines | [Project](https://github.com/MHase00/SOAR-EDR-Integration-Using-Lima-Charlie-Slack-Tines/tree/main) |
 
 ---
 
@@ -49,26 +50,31 @@ To leverage my expertise in SOC environments, cloud security, and automation to 
 <summary>Click to expand</summary>
 
 ### SOAR & Automation
-![Tines](https://img.shields.io/badge/-Tines-0072b1?&style=for-the-badge&logo=Tines&logoColor=white)
-![LimaCharlie](https://img.shields.io/badge/-LimaCharlie-4D4D4D?&style=for-the-badge&logo=LimaCharlie&logoColor=white)
+[![Tines](https://img.shields.io/badge/-Tines-0072b1?&style=for-the-badge&logo=Tines&logoColor=white)](https://github.com/MHase00/SOAR-EDR-Integration-Using-Lima-Charlie-Slack-Tines/tree/main)
+[![LimaCharlie](https://img.shields.io/badge/-LimaCharlie-4D4D4D?&style=for-the-badge&logo=LimaCharlie&logoColor=white)](https://github.com/MHase00/SOAR-EDR-Integration-Using-Lima-Charlie-Slack-Tines/tree/main)
 
 ### SIEM & SOAR
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
-![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white)
-![Wazuh](https://img.shields.io/badge/-Wazuh-0047AB?style=for-the-badge&logo=Security&logoColor=white)
-![TheHive](https://img.shields.io/badge/-TheHive-FFD700?style=for-the-badge)
+[![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white)](https://medium.com/@madhurhase0/azure-honeypot-tracking-cyber-attacks-in-real-time-with-microsoft-sentinel-848d5ee5e238)
+[![Wazuh](https://img.shields.io/badge/-Wazuh-0047AB?style=for-the-badge&logo=Security&logoColor=white)](https://medium.com/@madhurhase0/comprehensive-soc-automation-project-integrating-wazuh-soar-and-thehive-e9e92f273cd6)
+[![TheHive](https://img.shields.io/badge/-TheHive-FFD700?style=for-the-badge)](https://medium.com/@madhurhase0/comprehensive-soc-automation-project-integrating-wazuh-soar-and-thehive-e9e92f273cd6)
 
 ### Cloud & Networking
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
+[![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white)](https://medium.com/@madhurhase0/azure-honeypot-tracking-cyber-attacks-in-real-time-with-microsoft-sentinel-848d5ee5e238)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white)
 
 ### Operating Systems & Scripting
-![Linux](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black)](https://medium.com/@madhurhase0/overthewire-bandit-walkthrough-a-beginners-path-to-master-linux-and-security-ba1211e60a71)
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=Windows&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash_Scripting-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white)
+
+### Communication & Collaboration
+<div>
+    <a href="https://github.com/MHase00/SOAR-EDR-Integration-Using-Lima-Charlie-Slack-Tines/tree/main"><img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white" /></a>
+</div>
 
 </details>
 
