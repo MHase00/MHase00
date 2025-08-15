@@ -46,8 +46,6 @@ To leverage my expertise in SOC environments, cloud security, and automation to 
 ---
 
 ## 🔧 Tools & Technologies
-<details>
-<summary>Click to expand</summary>
 
 ### SOAR & Automation
 [![Tines](https://img.shields.io/badge/-Tines-0072b1?&style=for-the-badge&logo=Tines&logoColor=white)](https://github.com/MHase00/SOAR-EDR-Integration-Using-Lima-Charlie-Slack-Tines/tree/main)
